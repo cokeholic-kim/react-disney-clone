@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-disney-clone/static/css/main.a8f93548.css",
+    "main.js": "/react-disney-clone/static/js/main.e9d5268e.js",
+    "static/js/453.42c78e3b.chunk.js": "/react-disney-clone/static/js/453.42c78e3b.chunk.js",
+    "index.html": "/react-disney-clone/index.html",
+    "main.a8f93548.css.map": "/react-disney-clone/static/css/main.a8f93548.css.map",
+    "main.e9d5268e.js.map": "/react-disney-clone/static/js/main.e9d5268e.js.map",
+    "453.42c78e3b.chunk.js.map": "/react-disney-clone/static/js/453.42c78e3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f93548.css",
+    "static/js/main.e9d5268e.js"
+  ]
+}
